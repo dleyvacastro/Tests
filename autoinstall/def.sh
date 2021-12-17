@@ -1,17 +1,11 @@
-pacman -S qtile
-pacman -S bat
-pacman -S cbatticon --noconfirm
+pacman -S bat --noconfirm
 pacman -S cmatrix --noconfirm
 pacman -S discord --noconfirm
-pacman -S fish --noconfirm
-pacman -S git --noconfirm
-pacman -S github-cli --noconfirm
 pacman -S gparted --noconfirm
 pacman -S grub-customizer --noconfirm
 pacman -S hollywood --noconfirm
 pacman -S htop --noconfirm
 pacman -S kdeconnect --noconfirm
-pacman -S kitty --noconfirm
 pacman -S lightdm --noconfirm
 pacman -S lightdm-gtk-greeter --noconfirm
 pacman -S lightdm-gtk-greeter-settings --noconfirm
@@ -22,9 +16,6 @@ pacman -S lightdm-webkit2-theme-glorious --noconfirm
 pacman -S lsd --noconfirm
 pacman -S lxappearance --noconfirm
 pacman -S neofetch --noconfirm
-pacman -S neovim --noconfirm
-pacman -S nerd-fonts-ubuntu-mono --noconfirm
-pacman -S nerd-fonts-victor-mono --noconfirm
 pacman -S network-manager-applet --noconfirm
 pacman -S networkmanager --noconfirm
 pacman -S nitrogen --noconfirm
@@ -36,18 +27,15 @@ pacman -S npm --noconfirm
 pacman -S papirus-icon-theme --noconfirm
 pacman -S pavucontrol --noconfirm
 pacman -S picom --noconfirm
-pacman -S python-pip --noconfirm
 pacman -S ranger --noconfirm
-pacman -S rofi --noconfirm
-pacman -S ubberband --noconfirm
 pacman -S ruby --noconfirm
-pacman -S snapd --noconfirm
 pacman -S spotifyd --noconfirm
 pacman -S sqlite --noconfirm
 pacman -S starship --noconfirm
 pacman -S telegram-desktop --noconfirm
 pacman -S vlc --noconfirm
-pacman -S volumeicon --noconfirm
 pacman -S xclip --noconfirm
 pacman -S zoom --noconfirm
 pacman -S zsh --noconfirm
+
+snap install brave
