@@ -1,3 +1,4 @@
+pacman -S qtile
 pacman -S bat
 pacman -S cbatticon --noconfirm
 pacman -S cmatrix --noconfirm
