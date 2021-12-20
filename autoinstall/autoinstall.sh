@@ -9,20 +9,20 @@ yay -S nerd-fonts-victor-mono
 echo "---Another software---"
 echo "install software by pacman? [1/0]"
 read sp
-if [ sp == 1 ]
+if [ $sp == 1 ]
 then
     sudo sh ./def.sh
 fi
 
 echo "Install software by yay? [1/0]"
-if [ sy == 1 ]
+if [ $sy == 1 ]
 then
     sh ./dep_yay.sh
 fi
 
-echo "Install custom config? (kitty, rofi, fish)"
+echo "Install custom config? (kitty, rofi, fish, neovim, qtile) [1/0]"
 read cc
-if [ cc == 1 ]
+if [ $cc == 1 ]
 then
 
     git clone https://github.com/dleyvacastro/Tests.git
