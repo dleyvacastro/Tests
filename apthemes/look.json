@@ -1,38 +1,47 @@
 {
     "nord-wave": {
-        "rofi": "nord-wave",
-        "kitty": "Blazer"
+        "rofi": "nord",
+        "kitty": "Blazer",
+        "nvim": "nord"
     },
     "rosepine": {
-        "rofi": "rosepine",
-        "kitty": "DEFAULT"
+        "rofi": "DEFAULT",
+        "kitty": "DEFAULT",
+        "nvim": "DEFAULT"
     },
     "onedark": {
         "rofi": "onedark",
-        "kitty": "OneDark"
+        "kitty": "OneDark",
+        "nvim": "onedark"
     },
     "monokai-pro": {
-        "rofi": "monokai-pro",
-        "kitty": "DEFAULT"
+        "rofi": "material",
+        "kitty": "DEFAULT",
+        "nvim": "DEFAULT"
     },
     "material-darker": {
-        "rofi": "material-darker",
-        "kitty": "MaterialDark"
+        "rofi": "DEFAULT",
+        "kitty": "MaterialDark",
+        "nvim": "DEFAULT"
     },
     "material-ocean": {
         "rofi": "material-ocean",
-        "kitty": "Argonaut"
+        "kitty": "Argonaut",
+        "nvim": "oceanic-material"
     },
     "dark-grey": {
-        "rofi": "dark-grey",
-        "kitty": "Argonaut"
+        "rofi": "DEFAULT",
+        "kitty": "DEFAULT",
+        "nvim": "DEFAULT"
     },
     "dracula": {
         "rofi": "dracula",
-        "kitty": "Dracula"
+        "kitty": "Dracula",
+        "nvim": "dracula"
     },
     "nord": {
         "rofi": "nord",
-        "kitty": "DEFAULT"
+        "kitty": "nord",
+        "nvim": "DEFAULT"
     }
 }
