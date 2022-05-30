@@ -1,0 +1,29 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+clientMachine2=localhost
+command1=gpartedbin
+command2=timeshift-gtk
+count=2
+
+[Session: saved at previous logout]
+clientId1=10a9cdbeac000165336348200000007890230
+clientId2=10a9cdbeac000165388347400000007250006
+clientId3=10a9cdbeac000165388807100000007250016
+count=3
+discardCommand1[$e]=rm,$HOME/.config/session/dolphin_10a9cdbeac000165336348200000007890230_1653889456_584361
+discardCommand3[$e]=rm,$HOME/.config/session/systemsettings_10a9cdbeac000165388807100000007250016_1653889456_585054
+program1=/usr/bin/dolphin
+program2=/usr/bin/firewall-applet
+program3=/usr/bin/systemsettings
+restartCommand1=/usr/bin/dolphin,-session,10a9cdbeac000165336348200000007890230_1653889456_584361
+restartCommand2=/usr/bin/firewall-applet,-session,10a9cdbeac000165388347400000007250006_1653889456_585799,-name,firewall-applet
+restartCommand3=/usr/bin/systemsettings,-session,10a9cdbeac000165388807100000007250016_1653889456_585054
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=dleyvacastro
+userId2=dleyvacastro
+userId3=dleyvacastro

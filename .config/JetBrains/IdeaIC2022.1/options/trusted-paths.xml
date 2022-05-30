@@ -1,0 +1,29 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/ProyectoPersona" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/p1" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/p3" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/p4" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/p5" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part1/p6" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p1" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p2" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p3" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p4" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p5" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p6" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/Part2/p7" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/ProyectoPersona" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p1" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p1/p1" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p2" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p3" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p4" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p5" value="true" />
+        <entry key="$USER_HOME$/Documents/Madelyn/interfaces/p6" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

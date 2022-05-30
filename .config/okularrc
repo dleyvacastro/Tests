@@ -1,0 +1,41 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKcAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP1 DP1 HDMI1 Height 1280x720=1056
+eDP1 DP1 HDMI1 Height 1366x768=700
+eDP1 DP1 HDMI1 Height 1920x1080=1056
+eDP1 DP1 HDMI1 Width 1280x720=1920
+eDP1 DP1 HDMI1 Width 1366x768=1366
+eDP1 DP1 HDMI1 Width 1920x1080=1920
+eDP1 DP1 HDMI1 Window-Maximized 1366x768=true
+eDP1 DP1 HDMI1 Window-Maximized 1920x1080=true
+eDP1 DP1 HDMI1 XPosition 1280x720=1362
+eDP1 DP1 HDMI1 XPosition 1366x768=1920
+eDP1 DP1 HDMI1 XPosition 1920x1080=0
+eDP1 DP1 HDMI1 YPosition 1280x720=28
+eDP1 DP1 HDMI1 YPosition 1366x768=744
+eDP1 DP1 HDMI1 YPosition 1920x1080=432
+eDP1 DP1 Height 1366x768=692
+eDP1 DP1 Width 1366x768=1000
+eDP1 DP1 Window-Maximized 1366x768=true
+eDP1 DP1 XPosition 1366x768=2103
+eDP1 DP1 XPosition 1920x1080=564
+eDP1 DP1 YPosition 1366x768=340
+eDP1 DP1 YPosition 1920x1080=100
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/AN_LISIS (6).pdf
+File2[$e]=$HOME/Documents/UR/5to-semstre/AED/Proyecto/Proyecto.pdf
+File3[$e]=$HOME/Downloads/t6AED (1).pdf
+File4[$e]=$HOME/Documents/UR/5to-semstre/AED/Entregables/Entrega Final Proyecto Keystone.pdf
+File5[$e]=$HOME/Downloads/SoluTaller4_ Daniel_Leyva.pdf
+File6[$e]=$HOME/Documents/UR/5to-semstre/AED/Entregables/Entrega Final AED.pdf
+Name1[$e]=AN_LISIS (6).pdf
+Name2[$e]=Proyecto.pdf
+Name3[$e]=t6AED (1).pdf
+Name4[$e]=Entrega Final Proyecto Keystone.pdf
+Name5[$e]=SoluTaller4_ Daniel_Leyva.pdf
+Name6[$e]=Entrega Final AED.pdf

@@ -1,0 +1,6 @@
+[FileDialogSize]
+eDP1 DP1 HDMI1 Height 1280x720=600
+eDP1 DP1 HDMI1 Width 1280x720=884
+
+[KFileDialog Settings]
+detailViewIconSize=16

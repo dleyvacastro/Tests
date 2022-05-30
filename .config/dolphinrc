@@ -1,0 +1,32 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,5,13,23,45,55.823
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+DP1 eDP1 HDMI1 Height 1366x768=660
+DP1 eDP1 HDMI1 Width 1366x768=760
+DP1 eDP1 HDMI1 Window-Maximized 1280x720=true
+DP1 eDP1 HDMI1 Window-Maximized 1366x768=true
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 DP1 HDMI1 Height 1280x720=700
+eDP1 DP1 HDMI1 Height 1366x768=700
+eDP1 DP1 HDMI1 Height 1920x1080=700
+eDP1 DP1 HDMI1 Width 1280x720=1366
+eDP1 DP1 HDMI1 Width 1366x768=1366
+eDP1 DP1 HDMI1 Width 1920x1080=1366
+eDP1 DP1 HDMI1 Window-Maximized 1366x768=true
+eDP1 DP1 HDMI1 XPosition 1920x1080=4
+eDP1 DP1 HDMI1 YPosition 1920x1080=671
+eDP1 DP1 Height 1366x768=550
+eDP1 DP1 Width 1366x768=760
+eDP1 DP1 Window-Maximized 1366x768=true
+eDP1 DP1 XPosition 1366x768=2223
+eDP1 DP1 YPosition 1366x768=372
+eDP1 Window-Maximized 1366x768=true
+eDP1 XPosition 1366x768=303
+eDP1 YPosition 1366x768=118

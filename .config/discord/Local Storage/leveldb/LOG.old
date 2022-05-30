@@ -1,0 +1,15 @@
+2022/05/29-19:59:18.619 68f Reusing MANIFEST /home/dleyvacastro/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/29-19:59:18.620 68f Recovering log #106
+2022/05/29-19:59:18.621 68f Reusing old log /home/dleyvacastro/.config/discord/Local Storage/leveldb/000106.log 
+2022/05/29-22:26:50.862 1375 Level-0 table #110: started
+2022/05/29-22:26:50.881 1375 Level-0 table #110: 11362 bytes OK
+2022/05/29-22:26:50.887 1375 Delete type=0 #106
+2022/05/29-22:26:50.887 1375 Compacting 4@0 + 1@1 files
+2022/05/29-22:26:50.903 1375 Generated table #111@0: 57 keys, 447846 bytes
+2022/05/29-22:26:50.903 1375 Compacted 4@0 + 1@1 files => 447846 bytes
+2022/05/29-22:26:50.908 1375 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/05/29-22:26:50.908 1375 Delete type=2 #110
+2022/05/29-22:26:50.908 1375 Delete type=2 #101
+2022/05/29-22:26:50.908 1375 Delete type=2 #104
+2022/05/29-22:26:50.908 1375 Delete type=2 #107
+2022/05/29-22:26:50.908 1375 Delete type=2 #98

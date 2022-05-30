@@ -1,0 +1,6 @@
+2022/05/22-20:26:15.970 3606 Creating DB /home/dleyvacastro/.config/whatsdesk/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/05/22-20:26:15.980 3606 Reusing MANIFEST /home/dleyvacastro/.config/whatsdesk/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/22-20:26:26.593 3606 Level-0 table #5: started
+2022/05/22-20:26:26.597 3606 Level-0 table #5: 6412 bytes OK
+2022/05/22-20:26:26.604 3606 Delete type=0 #3
+2022/05/22-20:26:26.604 3606 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

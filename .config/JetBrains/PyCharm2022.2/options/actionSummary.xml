@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="14" l="1653760960798" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1653761022366" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1653760956471" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1653760968866" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1653760956504" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1653760962352" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1653760957004" />
+    </e>
+    <e n="PyRunFileInConsole">
+      <i c="1" l="1653761007722" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1653760972837" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1653760840345" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1653760999117" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1653760973571" />
+    </e>
+  </component>
+</application>

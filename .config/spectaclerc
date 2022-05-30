@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[FileDialogSize]
+eDP1 DP1 HDMI1 Height 1280x720=600
+eDP1 DP1 HDMI1 Width 1280x720=884
+
+[GuiConfig]
+captureMode=5
+window-position=1953,240
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20220521_110342.png,file:$HOME/Pictures/Screenshot_20220521_124652.png,file:$HOME/Pictures/Screenshot_20220521_124329.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/
+detailViewIconSize=16

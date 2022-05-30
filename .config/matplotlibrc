@@ -1,0 +1,14 @@
+[FileDialogSize]
+eDP1 DP1 HDMI1 Height 1280x720=600
+eDP1 DP1 HDMI1 Height 1366x768=600
+eDP1 DP1 HDMI1 Width 1280x720=884
+eDP1 DP1 HDMI1 Width 1366x768=884
+eDP1 DP1 Height 1366x768=600
+eDP1 DP1 Height 1920x1080=600
+eDP1 DP1 Width 1366x768=884
+eDP1 DP1 Width 1920x1080=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red25_1.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/40/Red40_4.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/40/Red40_3.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/40/Red40_2.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/40/Red40_1.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/Red25_4.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/Red25_3.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/Red25_2.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/Red25_1.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red25_4.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red25_3.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red25_2.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_4.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_3.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_2.png,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_1.png
+Recent URLs[$e]=file:$HOME/Documents/UR/5to-semstre/Variable compleja/,file:$HOME/Documents/UR/,file:$HOME/Documents/UR/5to-semstre/Redes/Parcial_1/,file:$HOME/,file:$HOME/Documents/UR/5to-semstre/Keystone/,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/,file:$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/40/
+detailViewIconSize=16

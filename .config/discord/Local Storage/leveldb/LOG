@@ -1,0 +1,6 @@
+2022/05/29-23:04:38.058 658 Reusing MANIFEST /home/dleyvacastro/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/29-23:04:38.058 658 Recovering log #109
+2022/05/29-23:04:38.059 658 Reusing old log /home/dleyvacastro/.config/discord/Local Storage/leveldb/000109.log 
+2022/05/29-23:54:34.936 655 Level-0 table #114: started
+2022/05/29-23:54:34.955 655 Level-0 table #114: 8686 bytes OK
+2022/05/29-23:54:34.960 655 Delete type=0 #109

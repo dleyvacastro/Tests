@@ -1,0 +1,30 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="28-05-2022">
+        <observation name="cancelled" value="5.0" />
+        <observation name="typedSelect" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="28-05-2022">
+        <observation name="BASIC" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="28-05-2022">
+        <observation name="count" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition" />
+    <factor id="mnemonicsUsage" />
+    <factor id="prefixLength" />
+    <factor id="prefixMatchingType" />
+    <factor id="timeBetweenTyping">
+      <dailyData date="28-05-2022">
+        <observation name="average" value="148.166667" />
+        <observation name="count" value="6.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

@@ -1,0 +1,192 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="p7" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Colegio.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Universidad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="112" selection-start-line="12" selection-start-column="112" selection-end-line="12" selection-end-column="112" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#442#458#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="6" lastUsed="1652757776473" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Universidad.java" />
+      <option value="$PROJECT_DIR$/src/Colegio.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3307143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3307143" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2087" y="720" width="1032" height="724" key="#Project_Structure" timestamp="1652754472760">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state x="2087" y="720" width="1032" height="724" key="#Project_Structure/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652754472760" />
+    <state x="2337" y="829" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1652755964984">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state x="2337" y="829" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652755964984" />
+    <state width="1320" height="203" key="GridCell.Tab.0.bottom" timestamp="1652756825942">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state width="1320" height="203" key="GridCell.Tab.0.bottom/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652756825942" />
+    <state width="1320" height="203" key="GridCell.Tab.0.center" timestamp="1652756825939">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state width="1320" height="203" key="GridCell.Tab.0.center/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652756825939" />
+    <state width="1320" height="203" key="GridCell.Tab.0.left" timestamp="1652756825939">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state width="1320" height="203" key="GridCell.Tab.0.left/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652756825939" />
+    <state width="1320" height="203" key="GridCell.Tab.0.right" timestamp="1652756825941">
+      <screen x="1920" y="720" width="1366" height="768" />
+    </state>
+    <state width="1320" height="203" key="GridCell.Tab.0.right/1920.720.1366.768/0.408.1920.1080/1920.0.1280.720@1920.720.1366.768" timestamp="1652756825941" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Colegio.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Universidad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="112" selection-start-line="12" selection-start-column="112" selection-end-line="12" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#442#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>p7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

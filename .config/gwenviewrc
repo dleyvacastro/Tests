@@ -1,0 +1,52 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 DP1 HDMI1 Height 1280x720=688
+eDP1 DP1 HDMI1 Height 1366x768=700
+eDP1 DP1 HDMI1 Width 1280x720=632
+eDP1 DP1 HDMI1 Width 1366x768=1366
+eDP1 DP1 HDMI1 XPosition 1280x720=1924
+eDP1 DP1 HDMI1 XPosition 1366x768=1920
+eDP1 DP1 HDMI1 XPosition 1920x1080=798
+eDP1 DP1 HDMI1 YPosition 1280x720=28
+eDP1 DP1 HDMI1 YPosition 1366x768=744
+eDP1 DP1 HDMI1 YPosition 1920x1080=503
+eDP1 DP1 Height 1366x768=480
+eDP1 DP1 Width 1366x768=640
+eDP1 DP1 XPosition 1366x768=2283
+eDP1 DP1 XPosition 1920x1080=640
+eDP1 DP1 YPosition 1366x768=446
+eDP1 DP1 YPosition 1920x1080=312
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/WhatsApp Image 2022-05-14 at 8.07.47 PM.jpeg
+File10[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/25/Red25_1.png
+File2[$e]=$HOME/Documents/UR/5to-semstre/Keystone/GPS_nano.jpg
+File3[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/tree_o.jpg
+File4[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/tree_n.jpg
+File5[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/graph_n.jpg
+File6[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red25_4.png
+File7[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_3.png
+File8[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_1.png
+File9[$e]=$HOME/Documents/UR/5to-semstre/Redes/Proyecto/proyecto_redes/results/Red50_2.png
+Name1[$e]=WhatsApp Image 2022-05-14 at 8.07.47 PM.jpeg
+Name10[$e]=Red25_1.png
+Name2[$e]=GPS_nano.jpg
+Name3[$e]=tree_o.jpg
+Name4[$e]=tree_n.jpg
+Name5[$e]=graph_n.jpg
+Name6[$e]=Red25_4.png
+Name7[$e]=Red50_3.png
+Name8[$e]=Red50_1.png
+Name9[$e]=Red50_2.png

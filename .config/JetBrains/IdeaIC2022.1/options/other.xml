@@ -1,0 +1,136 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="29CrUQ73eT6cmXbKYmMMzsao9hv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29CrcRvSAFsKqCCi4ioH7ETNcE4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29CvW9CqQlg3FCWaqyDPwKYCSuB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29Cvh4ljRQ30LAn64BiswltJzEX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29D2CXO9w0WWf69NpXwM9FAJPck">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29D5eoxbgjsdwVfZ0Nx9aWTqhMn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29DHE5ttrwbZaWfWkiO6qHd4hSn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29DLfVHu50Zc8jFxgezGPMd213m">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29DQSMvPoWq3TkELIbaKHQXcNhw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29DSKFy9Mrxf6XuTh5Sl9gK7EKh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29EDb9kqo2TZBGyH5RWc3DbkRuW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29GlpFzDDSDd7ZCeIA8Es4ljiek">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29GsF7zz1GQHkfKB2x1okQIvzCS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29GxF1zCbSUg9uVb7snZwYyxGMb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29GzwhQRRl546TwAbCT6tGsRL7I">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-221.5591.52-fc5c3e7451f7bfd26c3fb02e0977c6c90254e40a88d7142d36cb88b04ee63352",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-221.5591.52",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "121",
+    "fileTypeChangedCounter": "1",
+    "gotit.previous.run": "IC-221.5591.52",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5591.52",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p5",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-221.5591.52",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p5",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p4",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p3",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p2",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2/p1",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/p6",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/p5",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/p4",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/p3",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/ProyectoPersona",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part1/p1",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/Part2",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces",
+      "/home/dleyvacastro/Documents/Madelyn/interfaces/p1"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
