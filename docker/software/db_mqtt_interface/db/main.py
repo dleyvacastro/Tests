@@ -5,19 +5,19 @@ from  db_connection import db_connection
 from dotenv import load_dotenv
 import os
 load_dotenv()
-DB_HOST = os.getenv("DB_HOST")
-DB_NAME = os.getenv("DB_NAME")
-DB_USER = os.getenv("DB_USER")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
-DB_SSLMODE = os.getenv("DB_SSLMODE")
+# DB_HOST = os.getenv("DB_HOST")
+# DB_NAME = os.getenv("DB_NAME")
+# DB_USER = os.getenv("DB_USER")
+# DB_PASSWORD = os.getenv("DB_PASSWORD")
+# DB_SSLMODE = os.getenv("DB_SSLMODE")
 
 
 
-conn = db_connection(db_host =  DB_HOST,
-                     db_name =  DB_NAME,
-                     db_user = DB_USER,
-                     db_password = DB_PASSWORD,
-                     db_sslmode = DB_SSLMODE,
+conn = db_connection(db_host =  os.getenv("DB_HOST"),
+                     db_name =  os.getenv("DB_NAME"),
+                     db_user = os.getenv("DB_USER"),
+                     db_password = os.getenv("DB_PASSWORD"),
+                     db_sslmode = os.getenv("DB_SSLMODE")
                     )
 
 conn.create_tables()

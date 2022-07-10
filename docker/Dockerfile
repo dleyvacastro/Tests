@@ -62,9 +62,8 @@ USER root
 RUN /etc/init.d/postgresql start && \
     cd /app/software/db_mqtt_interface/db && \
     python ./main.py
-EXPOSE 1883
-EXPOSE 5000
-# CMD ["/usr/sbin/mosquitto", "-c", "/etc/mosquitto/mosquitto.conf"]
+EXPOSE 1883 5000
+#CMD ["/usr/sbin/mosquitto", "-c", "/etc/mosquitto/mosquitto.conf"]
 # -------------------------------
 # Setting up the application server
 # -------------------------------
