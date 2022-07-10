@@ -2,18 +2,29 @@
 # ni por el putas suban al git 'dirty7w7.py'
 from dirty7w7 import *
 from  db_connection import db_connection
+from dotenv import load_dotenv
+import os
+load_dotenv()
+DB_HOST = os.getenv("DB_HOST")
+DB_NAME = os.getenv("DB_NAME")
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_SSLMODE = os.getenv("DB_SSLMODE")
 
 
-conn = db_connection(db_host =  db_host,
-                     db_name =  db_name,
-                     db_user = db_user,
-                     db_password =  db_password,
-                     db_sslmode = db_sslmode,
+
+conn = db_connection(db_host =  DB_HOST,
+                     db_name =  DB_NAME,
+                     db_user = DB_USER,
+                     db_password = DB_PASSWORD,
+                     db_sslmode = DB_SSLMODE,
                     )
 
 conn.create_tables()
+conn.default_table_initialization()
+#conn.drop_all_data_tables()
 
-"""
+
 #######################################################
 print(
 conn.read_data(timestamp_start = '2020-01-01 00:00:00',
@@ -48,10 +59,11 @@ conn.read_data(timestamp_start = '2020-01-01 00:00:00',
 
 
 print('\n\n\n')
-
+"""
 ##########################################################
 #                   Escribiendo settings
 ##########################################################
+
 
 
 conn.write_ambiental_settings(value_min = 60,
@@ -101,7 +113,6 @@ print('\n\n')
 print( conn.read_actuators_settings(config_ = 'pump') )
 
 print( conn.read_actuators_settings(config_ = 'lights') )
-
+"""
 conn.end_connection()
 
-"""
